@@ -26,4 +26,4 @@ eat = document.getElementById("eat")
 eat.innerHTML = whatEat;
 
 var tobi = "Tobi ist cool, und du nicht."
-// alert(tobi)
+// alert(tobi);
