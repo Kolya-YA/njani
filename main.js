@@ -27,5 +27,3 @@ eat.innerHTML = whatEat;
 
 var tobi = "Tobi ist cool, und du nicht."
 // alert(tobi)
-
-8
